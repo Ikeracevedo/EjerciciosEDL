@@ -14,6 +14,8 @@ public class Ejercicio1 {
         poblarDatos(productos);
 
         mostrarDatos(productos);
+
+        //No supe como hacer la funcion sumarListas
     }
 
     public static ArrayList<Producto> poblarDatos(ArrayList<Producto> productosVendidos){
