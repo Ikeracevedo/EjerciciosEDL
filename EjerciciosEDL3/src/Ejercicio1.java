@@ -17,7 +17,7 @@ public class Ejercicio1 {
     }
 
     public static ArrayList<Producto> poblarDatos(ArrayList<Producto> productosVendidos){
-        Producto produc = new Producto(1000 + rand.nextInt(9999), rand.nextInt(100), rand.nextDouble(1000.0));
+        Producto produc = new Producto(1000 + rand.nextInt(1010), rand.nextInt(100), rand.nextDouble(1000.0));
         productosVendidos.add(produc);
         return productosVendidos;
     }
