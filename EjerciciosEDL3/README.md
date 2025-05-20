@@ -1,6 +1,6 @@
-# 📚 Espacio de Ejercicios del Profesor
+# 📚 Espacio de Ejercicios 
 
-¡Bienvenidos al repositorio oficial para subir y compartir los ejercicios asignados por el profesor! 🎓✨
+¡Bienvenidos al repositorio oficial para subir y compartir los ejercicios asignados por el profesor William Frasser! 🎓✨
 
 ---
 
@@ -9,7 +9,6 @@
 - 📋 **Ejercicios resueltos** paso a paso para facilitar tu aprendizaje.
 - 🧠 **Conceptos clave** y explicaciones claras.
 - 🔍 **Ejemplos prácticos** y soluciones para complementar tus estudios.
-- 🤝 Un lugar para colaborar, compartir dudas y crecer juntos.
 
 ---
 
