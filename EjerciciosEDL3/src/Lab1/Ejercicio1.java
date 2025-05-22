@@ -1,3 +1,5 @@
+package Lab1;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -15,7 +17,7 @@ public class Ejercicio1 {
         
         mostrarDatos(productosEntrada);
 
-        Comparator<Producto> compararPorCodigo = Comparator.comparing(Producto :: getCodigo);
+        Comparator<Producto > compararPorCodigo = Comparator.comparing(Producto :: getCodigo);
         Collections.sort(productosEntrada,compararPorCodigo);
         System.out.println();
         mostrarDatos(productosEntrada);
